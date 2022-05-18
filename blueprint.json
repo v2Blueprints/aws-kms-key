@@ -11,7 +11,7 @@
 	},
 	"configuration": {
 		"description": "^^binding-identifier^^-key",
-		"deletion_window_in_days": 10,
+		"deletion_window_in_days": 7,
 		"key_usage": "",
 		"customer_master_key_spec": "",
 		"policy": "",
