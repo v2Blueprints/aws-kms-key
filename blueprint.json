@@ -6,7 +6,7 @@
 	},
 	"compute_service": {
 		"default": {
-			"identifier": "container_service"
+			"identifier": "cluster_key"
 		}
 	},
 	"configuration": {
