@@ -10,7 +10,7 @@
 		}
 	},
 	"configuration": {
-		"description": "^^binding-identifier^^-key",
+		"description": "cluster-key",
 		"deletion_window_in_days": 7,
 		"key_usage": "",
 		"customer_master_key_spec": "",
