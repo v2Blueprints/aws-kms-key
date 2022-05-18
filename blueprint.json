@@ -1,0 +1,22 @@
+{
+	"identifier": "aws-kms-key",
+	"about": {
+		"title": "KMS key",
+		"explanation": "Manages a single-Region or multi-Region primary KMS key."
+	},
+	"compute_service": {
+		"default": {
+			"identifier": "container_service"
+		}
+	},
+	"configuration": {
+		"description": "^^binding-identifier^^-key",
+		"deletion_window_in_days": 10,
+		"key_usage": "",
+		"customer_master_key_spec": "",
+		"policy": "",
+		"is_enabled": true,
+		"enable_key_rotation": false,
+		"multi_region": false
+	}
+}
